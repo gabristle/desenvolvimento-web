@@ -1,0 +1,17 @@
+body {
+    background-color: #1C1C1C;
+    font-family: monospace;
+}
+
+h1{
+    font-size: 40px;
+    color: #F20544;
+    text-align: center;
+    text-shadow: 3px 3px #0597F2;
+}
+
+h2 {
+    color: #0597F2;
+    text-align: center;
+    font-size: 15px;
+}
